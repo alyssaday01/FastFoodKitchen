@@ -1,4 +1,4 @@
-# FastFoodKitchen
+# Fast Food Kitchen
 ## Intro to Computer Science II: Project 3
 ## Coding Language: Java
 
